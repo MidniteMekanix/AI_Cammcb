@@ -1,0 +1,92 @@
+repo_name: MidniteMekanix/AI_Cammcb
+report_id: 8a832d07c890964f936b96325655adee
+version: 0.1
+repo_type: Public
+timestamp: '2024-03-23T15:59:07+00:00'
+requested_by: thanhhoangvan
+provider: github
+branch: main
+detected_tools_count: 7
+tools:
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/MidniteMekanix/AI_Cammcb
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/MidniteMekanix/AI_Cammcb
+  detection_source: Repo Metadata
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/MidniteMekanix/AI_Cammcb/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Thanh HoangVan
+  last_updated_on: 2022-03-29 19:25:01.000000000 Z
+- name: OpenCV
+  description: Open Source Computer Vision Library
+  website_url: http://opencv.org/
+  open_source: true
+  hosted_saas: false
+  category: Assets and Media
+  sub_category: Image Processing and Management
+  image_url: https://img.stackshare.io/service/1293/opencv-logo-64x64.png
+  detection_source_url: https://github.com/MidniteMekanix/AI_Cammcb/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Thanh HoangVan
+  last_updated_on: 2022-03-29 19:25:01.000000000 Z
+- name: Jupyter
+  description: Multi-language interactive computing environments.
+  website_url: http://jupyter.org
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Data Science Notebooks
+  image_url: https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg
+  detection_source_url: https://github.com/MidniteMekanix/AI_Cammcb
+  detection_source: Repo Metadata
+- name: jupyterlab
+  description: The JupyterLab notebook server extension
+  package_url: https://pypi.org/project/jupyterlab
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20376/default_e6c4d6b6295b7d6934a5e16b2a16a7aa07991d65.png
+  detection_source_url: https://github.com/MidniteMekanix/AI_Cammcb/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Thanh HoangVan
+  last_updated_on: 2022-03-29 19:25:01.000000000 Z
+- name: opencv-python
+  description: Wrapper package for OpenCV python bindings
+  package_url: https://pypi.org/project/opencv-python
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/MidniteMekanix/AI_Cammcb/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Thanh HoangVan
+  last_updated_on: 2022-03-29 19:25:01.000000000 Z
